@@ -5,7 +5,8 @@
 This Privacy Policy explains what data this Discord bot Uphold collects and how it is used.
 
 ## Data we collect
-- **Discord User ID** (a numeric identifier provided by Discord)
+- **Discord User ID**
+- **Operational data** needed for the Bot to work (e.g. verification state and an expiration timestamp for verification codes)
 
 We do **not** intentionally collect message content, emails, phone numbers, or any other personal data.
 
